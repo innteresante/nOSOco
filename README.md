@@ -1,7 +1,7 @@
 - # nOSOco
 - ## Non Soporific Communication
 - ## Manifesto
-  **We, communicators and educators inspired by the power of humor, entertainment, and surprise, believe that effective communication should never be [dull or soporific](https://www.youtube.com/watch?v=Yk3-Vb7CH-o). We commit to transforming the way we impart knowledge and connect with our audiences, using joy and creativity as our main tools.**
+  **We, communicators and educators inspired by the power of [humor](https://www.youtube.com/watch?v=Fi5MNuF30FQ), entertainment, and surprise, believe that effective communication should never be [dull or soporific](https://www.youtube.com/watch?v=Yk3-Vb7CH-o). We commit to transforming the way we impart knowledge and connect with our audiences, using joy and creativity as our main tools.**
 - ### Declared Principles
 - **Humor as a Pedagogical Tool**: We believe that humor has the power to open minds, reduce stress, and facilitate learning. We commit to using humor intentionally to make our messages more accessible and memorable.
 - **Purposeful Entertainment**: We recognize that entertainment is not just for leisure but a powerful tool to capture attention and maintain audience interest. We use entertainment techniques to enrich our presentations and teachings.
